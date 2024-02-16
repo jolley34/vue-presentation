@@ -68,7 +68,7 @@ export default defineComponent({
         </div>
       </div>
       <img
-        class="rounded-xl drop-shadow-xl"
+        class="rounded-xl drop-shadow-xl grayscale"
         src="../assets/evan-you.png"
         alt=""
       />
@@ -93,7 +93,7 @@ export default defineComponent({
         </div>
       </div>
       <img
-        class="rounded-xl drop-shadow-xl"
+        class="rounded-xl drop-shadow-xl grayscale"
         src="../assets/whyvue.jpeg"
         alt=""
       />
@@ -123,7 +123,7 @@ export default defineComponent({
         </div>
       </div>
       <img
-        class="rounded-xl drop-shadow-xl"
+        class="rounded-xl drop-shadow-xl grayscale"
         src="../assets/screenshot-1.png"
         alt=""
       />
@@ -146,7 +146,7 @@ export default defineComponent({
         </div>
       </div>
       <img
-        class="rounded-xl drop-shadow-xl"
+        class="rounded-xl drop-shadow-xl grayscale"
         src="../assets/speed.jpeg"
         alt=""
       />
@@ -171,7 +171,7 @@ export default defineComponent({
         </div>
       </div>
       <img
-        class="rounded-xl drop-shadow-xl"
+        class="rounded-xl drop-shadow-xl grayscale"
         src="../assets/repair.png"
         alt=""
       />
