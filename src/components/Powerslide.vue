@@ -187,7 +187,7 @@ export default defineComponent({
         </div>
       </div>
       <img
-        class="rounded-xl drop-shadow-xl"
+        class="rounded-xl drop-shadow-xl grayscale"
         src="../assets/state-of-javascript.png"
         alt=""
       />
